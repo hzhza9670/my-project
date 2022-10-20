@@ -1,6 +1,6 @@
 # my app (my-project)
 
-A Quasar Project
+A Quasar Project for me
 
 ## Install the dependencies
 ```bash
