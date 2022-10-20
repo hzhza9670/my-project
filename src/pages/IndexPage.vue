@@ -23,7 +23,7 @@ import { ref } from 'vue'
 const result = ref(false)
 function moveRabbit () {
   result.value = confirm('Bingo!')
-  alert(result)
+  // alert(result)
 }
 
 </script>
