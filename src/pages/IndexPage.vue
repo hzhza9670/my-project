@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center">
     <div class="full-width text-center text-h3">
-      hello
+      欢迎来到米奇妙妙屋
       </div>
     <img
     v-if="result"
